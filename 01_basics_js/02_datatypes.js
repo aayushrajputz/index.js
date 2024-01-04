@@ -14,7 +14,7 @@ let isLoggedIn = true
 //string => ""
 //null => standalone value/its a object
 //undefined => value is not assigned 
-
+//array => this is a structure that allows us to store multiple value in asingle reference 
 // symbol => find uniqueness
 
 
