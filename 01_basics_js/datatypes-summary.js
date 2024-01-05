@@ -47,3 +47,32 @@ const myFunction = function(){
 }
 
 console.log(typeof id)
+
+
+
+/ *******************stack, heap memory*************
+
+
+// Stack (primitive) its returns copy , Heap(non-primitive) its returns update orignal
+
+let myEmailId = "aayushpratapsingh001@gmail.com"
+
+let anotherName = myEmailId 
+
+anotherName = "aayushpratap001@gmail.com"
+
+console.log(anotherName);
+console.log(myEmailId);
+
+
+let userOne ={
+    email:  "prashnt840@google.com",
+    UPI:  "6409327834@ybl",
+    
+}
+let userTwo = userOne
+
+userTwo.email = "hitesh@google.com",
+
+console.log(userOne.email);
+console.log(userTwo.email);
