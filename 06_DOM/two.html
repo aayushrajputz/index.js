@@ -8,6 +8,7 @@
 
 <body style="background-color: black; color: aliceblue;"">
     <div class="parent">
+        <!-- this is a comment -->
         <div class="day">monday</div>
         <div class="day">tuesday</div>
         <div class="day">wednesday</div>
@@ -15,12 +16,12 @@
     </div>
 </body>
 <script>
-    const parent = document.querySelector(".parent")
+    // const parent = document.querySelector(".parent")
     // console.log(parent)
     // console.log(parent.children);
     // console.log(parent.children[1].innerHTML);
     // for (let i  = 0; i  < parent.children.length; i ++) {
-        // console.log (parent.children[i].innerHTML)
+    //     console.log (parent.children[i].innerHTML)
         
     
     parent.children[1].style.color="orange"
@@ -30,5 +31,7 @@
     console.log(dayOne)
     console.log(dayOne.parentElement)
     console.log(dayOne.nextElementSibling)
+
+    console.log("NODESl|: ",parent.childNodes);
 </script>
 </html>
