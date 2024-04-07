@@ -32,7 +32,9 @@ buttons.forEach(function (button) {
     
   });
 });
-```
+
+
+
 ## project 2
 
 const form = document.querySelector('form');
