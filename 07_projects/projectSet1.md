@@ -6,7 +6,7 @@
 
 
 
-# project 1
+## project 1
 ``` javascript 
 console.log("hitesh")
 const buttons = document.querySelectorAll('.button');
@@ -32,8 +32,8 @@ buttons.forEach(function (button) {
     
   });
 });
-
-# project 2
+```
+## project 2
 
 const form = document.querySelector('form');
 // this usecase will give you empty
@@ -57,7 +57,8 @@ form.addEventListener('submit', function (e) {
   }
 });
 
-# project 3
+
+## project 3
 
 const clock = document.getElementById('clock');
 // const clock = document.querySelector('#clock')
@@ -68,7 +69,7 @@ setInterval(function () {
   clock.innerHTML = date.toLocaleTimeString();
 }, 1000);
 
-# project 4
+## project 4
 
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
