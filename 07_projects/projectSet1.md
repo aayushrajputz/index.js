@@ -8,7 +8,7 @@
 [click here to bmi calculator](https://stackblitz.com/edit/stackblitz-starters-xaqfed?file=script.js)
 
 ## project3
-[click here to digital clock](https://stackblitz.com/edit/stackblitz-starters-5wnded?file=script.js)
+[click here to digital clock](https://stackblitz.com/edit/stackblitz-starters-5wnded?file=index.html)
 
 ## project4
  [click here to guess the number game](https://stackblitz.com/edit/stackblitz-starters-jr9bu1?file=script.js)
